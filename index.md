@@ -1,3 +1,3 @@
-# Welcome to my blog
+# Welcome to my Portfolio
 
-I'm glad you are here. I plan to talk about ...
+This site contains selected works of Haoyu Wang
